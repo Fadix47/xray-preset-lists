@@ -1,0 +1,15 @@
+[
+  {
+    "id": "discord",
+    "name": "Discord"
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "description": "Instagram / Facebook / WhatsApp"
+  },
+  {
+    "id": "twitter",
+    "name": "Twitter / X"
+  }
+]
