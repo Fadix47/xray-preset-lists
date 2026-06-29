@@ -6,10 +6,13 @@
   {
     "id": "meta",
     "name": "Meta",
-    "description": "Instagram / Facebook / WhatsApp"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube"
   },
   {
     "id": "twitter",
-    "name": "Twitter / X"
+    "name": "Twitter"
   }
 ]
