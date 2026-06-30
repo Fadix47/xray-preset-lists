@@ -14,5 +14,9 @@
   {
     "id": "twitter",
     "name": "Twitter"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram"
   }
 ]
