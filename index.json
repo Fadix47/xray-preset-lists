@@ -16,7 +16,27 @@
     "name": "Twitter"
   },
   {
-    "id": "telegram",
-    "name": "Telegram"
+    "id": "ai-block",
+    "name": "Blocked AI's"
+  },
+  {
+    "id": "aws",
+    "name": "Amazon AWS"
+  },
+  {
+    "id": "cloudflare",
+    "name": "cloudflare"
+  },
+  {
+    "id": "google-play",
+    "name": "Google Play"
+  },
+  {
+    "id": "supercell-games",
+    "name": "Supercell Games"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok"
   }
 ]
