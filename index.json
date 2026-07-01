@@ -38,5 +38,9 @@
   {
     "id": "tiktok",
     "name": "TikTok"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram"
   }
 ]
